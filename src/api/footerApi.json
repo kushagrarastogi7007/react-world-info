@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Lucknow, Uttar Pradesh"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "7007618669"
+    },
+    {
+      "icon": "IoMailUnreadOutline",
+      "title": "Mail us",
+      "details": "kushagrar618@gmail.com"
+    }
+  ]
