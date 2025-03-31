@@ -156,6 +156,7 @@ nav ul {
   .menu-mobile ul {
     display: flex;
     flex-direction: column;
+    gap: 1rem;
     align-items: center;
 
     & li:first-child {
